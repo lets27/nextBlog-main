@@ -58,8 +58,8 @@ const CreateBlog = () => {
                 <option value="" disabled className="text-zinc-700">SELECT A SPORT</option>
                 <option value="football">Football Central</option>
                 <option value="fighting">Ultimate Fighting</option>
-                <option value="racing">Racing League</option>
-                <option value="basketball">Hoops Universe</option>
+                <option value="racing">Racing</option>
+                <option value="basketball">BasketBall</option>
               </select>
             </div>
 

@@ -23,7 +23,7 @@ const SportsFooter = () => {
           {/* Brand */}
           <div className="lg:col-span-1">
             <h2 className="text-2xl font-black uppercase tracking-tight mb-4">
-              Next<span className="text-red-500">Sports</span>
+              World<span className="text-red-500">Sports</span>
             </h2>
             <p className="text-sm text-white/70 leading-relaxed mb-6">
               A modern sports media platform delivering fixtures, results,
